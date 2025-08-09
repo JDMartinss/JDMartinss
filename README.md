@@ -5,6 +5,14 @@
 - 📫 Contate-me pelo email: joaodiegomartins21@gmail.com
 - ⚡ Fato curioso -> sou youtuber e streamer :)
 
+ <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JDMartinss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+   
+</div>
+
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m5nsv6bh7ehcamzz4rneghr73a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31m5nsv6bh7ehcamzz4rneghr73a&redirect=true)
+
 
 <div> 
   <a href="https://www.youtube.com/@mbjawn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
