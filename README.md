@@ -3,7 +3,7 @@
 - 💻 Ainda não trabalho na área mas ansioso para começar!
 - 📘 Cursando ADS no IFSP de Bragança Paulista
 - 📫 Contate-me pelo email: joaodiegomartins21@gmail.com
-- ⚡ Fato curioso -> sou youtuber e streamer :)
+  
 
  <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JDMartinss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
