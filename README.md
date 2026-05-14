@@ -15,12 +15,6 @@
 
 <br>
 
-### 📊 Estatísticas do GitHub
-<div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JDMartinss&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do Jawn" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDMartinss&layout=compact&langs_count=6&theme=dark" alt="Linguagens mais usadas" />
-</div>
-
 <br>
 
 ### 🎵 O que estou ouvindo
